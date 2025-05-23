@@ -29,5 +29,6 @@ Eti A - bet dagan
 shiri earon - FPGa
 Dror Gilad - FPGA
 josefk kadouri ramat gan
+Yos Yos - Developer
 
 yoram last____________________________
